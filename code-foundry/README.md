@@ -16,4 +16,4 @@ No copy-pasting, no passive tutorials. Whenever I encounter a tricky parameter, 
 **🇬🇧 English:**
 * **Zero Bloat:** No unnecessary folder hierarchy or dispersive subfolders.
 * **Self-Contained:** Each script or `.ipynb` notebook is an autonomous module focused on a single technical or logical goal.
-* **Readable & Practical:** Every file is explicitly named (e.g., `print_end_parameter_deep_dive.ipynb`) and designed as an intuitive reference both for myself and for other beginners.
+* **Readable & Practical:** Every file is explicitly named and designed as an intuitive reference both for myself and for other beginners.
